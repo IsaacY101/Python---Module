@@ -30,7 +30,7 @@ print("Enter Lots")
 lots = float(input())
 w_kg = ((talents*20+pounds)*32 + lots)*0.0133
 w_g = 1000*(w_kg - int(w_kg))
-print(f"The weight in Modern unit is: \n{int(w_kg)} Killograms and {w_g:.2f} Grams")
+print(f"The weight in Modern unit is: \n{int(w_kg)} Kilograms and {w_g:.2f} Grams")
 
 #Excercise 6
 import random
