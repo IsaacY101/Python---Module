@@ -1,2 +1,3 @@
-# Python---Module
-Execise solutions
+# Python-Module
+Yishak Addis Dessalegne
+Exercise solutions
